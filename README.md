@@ -64,5 +64,5 @@ pip install pandas numpy scikit-learn nltk
 4. Evaluate performance and compare models  
 
 ## Author  
-**Christabel Sakyi**  
+**Pedahel Emmanuel Kojo**  
 Senior Software Engineer, Machine Learning Engineer at CSP
